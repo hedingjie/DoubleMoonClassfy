@@ -7,6 +7,7 @@ This is the source code of Double-Moon-Classfy problem
 具体数据参数如图2所示:
 
 ![](./res/timg-2.jpeg)
+<center>图2</center>
 
 引用图片:
 
